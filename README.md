@@ -1,4 +1,4 @@
-# Agent Arena
+# Agent Arena - NeuraAI
 
 **Portable agent identities and trustless bounty system on Base blockchain using official ERC-8004 protocol.**
 
